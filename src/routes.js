@@ -10,11 +10,11 @@ router.post('/api/authenticate', authController.authenticate);
 
 router.post('/api/follow', authController.isLoggedIn, userController.followUser)
 router.post('/api/unfollow', authController.isLoggedIn, userController.unfollowUser)
-router.get('/api/user-details', authController.isLoggedIn, userController.getUser);
+router.get('/api/user', authController.isLoggedIn, userController.getUser);
 
 
-router.post('/api/create-post', authController.isLoggedIn, postController.createPost)
-router.delete('/api/delete-post',authController.isLoggedIn, postController.deletePost)
+router.post('/api/posts', authController.isLoggedIn, postController.createPost)
+router.delete('/api/posts',authController.isLoggedIn, postController.deletePost)
 
 router.post('/api/like', authController.isLoggedIn, postController.likePost)
 router.post('/api/unlike', authController.isLoggedIn, postController.unlikePost)
