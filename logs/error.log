@@ -1,0 +1,13 @@
+[31m04/03/2022 16:38:40 - [error] : Email is required. Password is Required![39m
+[31m04/03/2022 16:41:06 - [error] : Email is required. Password is Required![39m
+[31m04/03/2022 16:42:06 - [error] : logger is not defined[39m
+[31m04/03/2022 16:42:14 - [error] : logger is not defined[39m
+[31m04/03/2022 16:52:06 - [error] : issuer is not defined[39m
+[31m04/03/2022 16:52:29 - [error] : Unexpected token o in JSON at position 1[39m
+[31m04/03/2022 17:05:31 - [error] : tokenService.signAccessToken is not a function[39m
+[31m04/03/2022 17:10:36 - [error] : tokenService.signAccessToken is not a function[39m
+[31m04/03/2022 19:00:14 - [error] : Unexpected token P in JSON at position 67[39m
+[31m04/03/2022 19:11:26 - [error] : Not Found[39m
+[31m04/03/2022 21:30:37 - [error] : Email is required. Password is Required![39m
+[31m04/03/2022 21:30:46 - [error] : Email is required. Password is Required![39m
+[31m04/03/2022 21:32:08 - [error] : PUB_KEY is not defined[39m

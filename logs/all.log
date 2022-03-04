@@ -1,0 +1,237 @@
+[34m03/03/2022 20:24:43 - [info] : listening on port 3000[39m
+[34m03/03/2022 20:25:14 - [info] : listening on port 3000[39m
+[34m03/03/2022 22:17:38 - [info] : listening on port 3000[39m
+[34m03/03/2022 22:18:21 - [info] : listening on port 3000[39m
+[34m04/03/2022 16:17:36 - [info] : listening on port 3000[39m
+[31m04/03/2022 16:38:40 - [error] : Email is required. Password is Required![39m
+[35m04/03/2022 16:38:40 - [http] : POST /api/authenticate 500 77 - 47.226 ms[39m
+[35m[39m
+[31m04/03/2022 16:41:06 - [error] : Email is required. Password is Required![39m
+[35m04/03/2022 16:41:06 - [http] : POST /api/authenticate 500 77 - 3.323 ms[39m
+[35m[39m
+[31m04/03/2022 16:42:06 - [error] : logger is not defined[39m
+[34m04/03/2022 16:42:11 - [info] : listening on port 3000[39m
+[31m04/03/2022 16:42:14 - [error] : logger is not defined[39m
+[34m04/03/2022 16:42:49 - [info] : listening on port 3000[39m
+[37m04/03/2022 16:42:53 - [debug] : authent[object Object][39m
+[35m04/03/2022 16:42:54 - [http] : POST /api/authenticate 403 12 - 432.626 ms[39m
+[35m[39m
+[37m04/03/2022 16:47:39 - [debug] : authent[object Object][39m
+[35m04/03/2022 16:47:41 - [http] : POST /api/authenticate 403 12 - 2205.352 ms[39m
+[35m[39m
+[37m04/03/2022 16:50:18 - [debug] : authent[object Object][39m
+[35m04/03/2022 16:50:20 - [http] : POST /api/authenticate 403 12 - 2113.037 ms[39m
+[35m[39m
+[37m04/03/2022 16:51:02 - [debug] : authent[object Object][39m
+[35m04/03/2022 16:51:04 - [http] : POST /api/authenticate 403 12 - 2167.425 ms[39m
+[35m[39m
+[37m04/03/2022 16:51:25 - [debug] : authent[object Object][39m
+[35m04/03/2022 16:51:27 - [http] : POST /api/authenticate 403 12 - 2162.597 ms[39m
+[35m[39m
+[37m04/03/2022 16:52:03 - [debug] : authent[object Object][39m
+[31m04/03/2022 16:52:06 - [error] : issuer is not defined[39m
+[34m04/03/2022 16:52:25 - [info] : listening on port 3000[39m
+[31m04/03/2022 16:52:29 - [error] : Unexpected token o in JSON at position 1[39m
+[34m04/03/2022 16:52:50 - [info] : listening on port 3000[39m
+[37m04/03/2022 16:52:53 - [debug] : authent[object Object][39m
+[37m04/03/2022 16:52:53 - [debug] : authent[39m
+[35m04/03/2022 16:52:54 - [http] : POST /api/authenticate 200 34 - 422.259 ms[39m
+[35m[39m
+[37m04/03/2022 16:53:22 - [debug] : authent[object Object][39m
+[37m04/03/2022 16:53:24 - [debug] : authent[39m
+[35m04/03/2022 16:53:24 - [http] : POST /api/authenticate 200 34 - 2631.346 ms[39m
+[35m[39m
+[37m04/03/2022 16:53:52 - [debug] : authent[object Object][39m
+[37m04/03/2022 16:53:54 - [debug] : authent[39m
+[35m04/03/2022 16:53:54 - [http] : POST /api/authenticate 200 34 - 2195.057 ms[39m
+[35m[39m
+[37m04/03/2022 16:55:35 - [debug] : authent[object Object][39m
+[37m04/03/2022 16:55:37 - [debug] : authent[39m
+[35m04/03/2022 16:55:37 - [http] : POST /api/authenticate 200 34 - 2226.106 ms[39m
+[35m[39m
+[37m04/03/2022 16:57:04 - [debug] : authent[object Object][39m
+[37m04/03/2022 16:57:06 - [debug] : authent[39m
+[35m04/03/2022 16:57:06 - [http] : POST /api/authenticate 200 34 - 2188.158 ms[39m
+[35m[39m
+[37m04/03/2022 16:58:22 - [debug] : authent[object Object][39m
+[37m04/03/2022 16:58:24 - [debug] : authent[39m
+[35m04/03/2022 16:58:24 - [http] : POST /api/authenticate 200 34 - 2240.027 ms[39m
+[35m[39m
+[37m04/03/2022 16:59:23 - [debug] : authent[object Object][39m
+[37m04/03/2022 16:59:25 - [debug] : authent[39m
+[35m04/03/2022 16:59:25 - [http] : POST /api/authenticate 200 34 - 2100.783 ms[39m
+[35m[39m
+[37m04/03/2022 17:04:30 - [debug] : authent[object Object][39m
+[37m04/03/2022 17:04:32 - [debug] : authent[39m
+[35m04/03/2022 17:04:33 - [http] : POST /api/authenticate 200 34 - 2269.436 ms[39m
+[35m[39m
+[34m04/03/2022 17:05:25 - [info] : listening on port 3000[39m
+[31m04/03/2022 17:05:31 - [error] : tokenService.signAccessToken is not a function[39m
+[34m04/03/2022 17:10:29 - [info] : listening on port 3000[39m
+[31m04/03/2022 17:10:36 - [error] : tokenService.signAccessToken is not a function[39m
+[34m04/03/2022 17:11:43 - [info] : listening on port 3000[39m
+[35m04/03/2022 17:11:48 - [http] : POST /api/authenticate 200 865 - 479.152 ms[39m
+[35m[39m
+[35m04/03/2022 17:15:42 - [http] : POST /api/authenticate 200 865 - 10169.393 ms[39m
+[35m[39m
+[35m04/03/2022 18:27:31 - [http] : POST /api/authenticate 200 865 - 2122.986 ms[39m
+[35m[39m
+[35m04/03/2022 18:28:10 - [http] : POST /api/authenticate 200 865 - 2197.657 ms[39m
+[35m[39m
+[34m04/03/2022 18:29:03 - [info] : listening on port 3000[39m
+[35m04/03/2022 18:29:20 - [http] : POST /api/authenticate 200 39 - 2176.085 ms[39m
+[35m[39m
+[34m04/03/2022 18:29:49 - [info] : listening on port 3000[39m
+[34m04/03/2022 18:56:02 - [info] : listening on port 3000[39m
+[34m04/03/2022 18:56:15 - [info] : listening on port 3000[39m
+[34m04/03/2022 18:56:18 - [info] : listening on port 3000[39m
+[31m04/03/2022 19:00:14 - [error] : Unexpected token P in JSON at position 67[39m
+[35m04/03/2022 19:00:14 - [http] : POST /api/authenticate 400 78 - 8.316 ms[39m
+[35m[39m
+[35m04/03/2022 19:00:39 - [http] : POST /api/authenticate 200 39 - 2315.773 ms[39m
+[35m[39m
+[35m04/03/2022 19:01:11 - [http] : POST /api/follow 200 31 - 2467.488 ms[39m
+[35m[39m
+[34m04/03/2022 19:02:47 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:03:02 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:03:02 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:03:04 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:03:05 - [info] : listening on port 3000[39m
+[35m04/03/2022 19:03:26 - [http] : POST /api/unfollow 200 42 - 2465.865 ms[39m
+[35m[39m
+[35m04/03/2022 19:03:35 - [http] : POST /api/unfollow 403 26 - 334.187 ms[39m
+[35m[39m
+[35m04/03/2022 19:03:41 - [http] : POST /api/follow 200 31 - 894.879 ms[39m
+[35m[39m
+[35m04/03/2022 19:03:42 - [http] : POST /api/follow 403 35 - 433.891 ms[39m
+[35m[39m
+[34m04/03/2022 19:04:32 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:04:35 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:05:33 - [info] : listening on port 3000[39m
+[35m04/03/2022 19:05:51 - [http] : GET /api/user-details 200 80 - 2896.507 ms[39m
+[35m[39m
+[34m04/03/2022 19:06:18 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:06:19 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:06:21 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:06:30 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:06:41 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:06:42 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:06:45 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:07:32 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:07:53 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:07:56 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:08:04 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:08:07 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:08:08 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:08:14 - [info] : listening on port 3000[39m
+[31m04/03/2022 19:11:26 - [error] : Not Found[39m
+[35m04/03/2022 19:11:26 - [http] : GET /api/create-post 404 46 - 16.572 ms[39m
+[35m[39m
+[35m04/03/2022 19:11:53 - [http] : POST /api/create-post 200 148 - 2253.102 ms[39m
+[35m[39m
+[35m04/03/2022 19:12:00 - [http] : POST /api/create-post 200 148 - 284.477 ms[39m
+[35m[39m
+[35m04/03/2022 19:13:18 - [http] : DELETE /api/delete-post 200 26 - 3053.774 ms[39m
+[35m[39m
+[34m04/03/2022 19:14:52 - [info] : listening on port 3000[39m
+[35m04/03/2022 19:16:48 - [http] : POST /api/like 200 24 - 4606.732 ms[39m
+[35m[39m
+[35m04/03/2022 19:16:54 - [http] : POST /api/like 400 27 - 645.271 ms[39m
+[35m[39m
+[34m04/03/2022 19:18:52 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:19:06 - [info] : listening on port 3000[39m
+[35m04/03/2022 19:19:13 - [http] : POST /api/unlike 200 26 - 1000.243 ms[39m
+[35m[39m
+[34m04/03/2022 19:19:59 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:20:13 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:20:15 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:20:36 - [info] : listening on port 3000[39m
+[34m04/03/2022 19:20:41 - [info] : listening on port 3000[39m
+[35m04/03/2022 19:55:52 - [http] : GET /api/posts/2 404 28 - 2421.651 ms[39m
+[35m[39m
+[35m04/03/2022 19:56:00 - [http] : GET /api/posts/1 200 28 - 922.591 ms[39m
+[35m[39m
+[35m04/03/2022 19:57:45 - [http] : GET /api/all_posts 200 190 - 2150.302 ms[39m
+[35m[39m
+[34m04/03/2022 20:07:47 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:09:50 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:09:52 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:10:06 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:10:08 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:10:16 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:10:27 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:10:31 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:10:35 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:10:38 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:10:50 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:10:56 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:11:20 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:11:31 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:11:38 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:11:50 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:11:53 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:11:58 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:11:59 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:12:02 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:13:20 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:13:28 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:13:52 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:13:56 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:14:05 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:14:41 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:15:01 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:15:03 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:15:04 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:15:27 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:15:32 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:15:37 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:15:40 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:16:12 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:16:17 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:16:19 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:16:21 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:16:53 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:16:55 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:16:57 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:17:13 - [info] : listening on port 3000[39m
+[34m04/03/2022 20:17:14 - [info] : listening on port 3000[39m
+[31m04/03/2022 21:30:37 - [error] : Email is required. Password is Required![39m
+[35m04/03/2022 21:30:37 - [http] : POST /api/authenticate 500 77 - 20.512 ms[39m
+[35m[39m
+[31m04/03/2022 21:30:46 - [error] : Email is required. Password is Required![39m
+[35m04/03/2022 21:30:46 - [http] : POST /api/authenticate 500 77 - 2.349 ms[39m
+[35m[39m
+[34m04/03/2022 21:31:26 - [info] : listening on port 3000[39m
+[35m04/03/2022 21:31:36 - [http] : POST /api/authenticate 200 39 - 372.150 ms[39m
+[35m[39m
+[31m04/03/2022 21:32:08 - [error] : PUB_KEY is not defined[39m
+[34m04/03/2022 21:32:43 - [info] : listening on port 3000[39m
+[34m04/03/2022 21:32:51 - [info] : listening on port 3000[39m
+[35m04/03/2022 21:32:59 - [http] : POST /api/follow 403 35 - 390.141 ms[39m
+[35m[39m
+[34m04/03/2022 21:35:49 - [info] : listening on port 3000[39m
+[34m04/03/2022 21:36:02 - [info] : listening on port 3000[39m
+[34m04/03/2022 21:36:05 - [info] : listening on port 3000[39m
+[34m04/03/2022 21:41:05 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:09:16 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:09:18 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:09:22 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:09:35 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:09:37 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:09:39 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:09:40 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:10:05 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:10:06 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:10:12 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:10:14 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:10:27 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:10:29 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:10:45 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:10:47 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:11:00 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:11:01 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:11:03 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:11:54 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:11:55 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:12:11 - [info] : listening on port 3000[39m
+[34m04/03/2022 22:15:24 - [info] : listening on port 3000[39m
