@@ -241,3 +241,5 @@
 [34m05/03/2022 00:04:16 - [info] : listening on port 3000[39m
 [34m05/03/2022 00:04:18 - [info] : listening on port 3000[39m
 [34m05/03/2022 00:04:29 - [info] : listening on port 3000[39m
+[35m05/03/2022 00:07:00 - [http] : POST /api/authenticate 200 39 - 2296.616 ms[39m
+[35m[39m
