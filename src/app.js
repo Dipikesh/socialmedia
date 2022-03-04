@@ -12,7 +12,7 @@ require('dotenv').config()
 const app = express();
 
 
-app.use(cors({ credentials: true, origin: true, exposedHeaders: '*' }))
+app.use(cors({ credentials: true, origin: "*", exposedHeaders: '*' }))
 
 app.use(helmet())
 app.use(httpLogger)
