@@ -24,6 +24,11 @@ app.use(express.urlencoded({ extended: true }))
 // Routes
 app.use('/', require('./routes'));
 
+//Swagger UI
+const swaggerUi = require('swagger-ui-express')
+const swaggerDocument = require('../swagger.json')
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument))
+
 
 
 app.use((req, res, next) => {
